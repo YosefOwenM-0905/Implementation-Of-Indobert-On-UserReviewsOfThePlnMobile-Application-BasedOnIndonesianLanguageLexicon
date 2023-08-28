@@ -1,0 +1,375 @@
+,preprocessing,label
+1,"['pengajuan', 'menambah', 'speed', 'iconnet', 'mbps', 'mbps', 'infokan', 'gmail', 'pesan', 'informasi']",netral
+3,"['pasang', 'iconnet', 'teknisi', 'pasang', 'tersedianya', 'tower', 'rumah', 'cek', 'aplikasi', 'tercover', 'mengajukan', 'pengembalian', 'dana', 'tanggapan', 'pln', 'nya']",netral
+5,"['aplikasi', 'aneh', 'input', 'data', 'login', 'kode', 'otp', 'kirim', 'jaring', 'server', 'periksa', 'jaringan', 'masuk', 'cek', 'tagihan', 'masukan', 'idpl', 'jaringan', 'server', 'bermasalah', 'gangguan', 'pusat', 'periksa', 'operator', 'mu', 'mempermudah', 'buang', 'kuota', 'menuhin', 'ram', 'hp', 'hapus', 'iya']",netral
+6,"['ubah', 'bintang', 'ya', 'error', 'aplikasinya', 'cek', 'riwayat', 'pembelian', 'token', 'tolong', 'diperhatikan']",netral
+11,"['mantaap', 'aplikasi', 'plnmobile', 'aktivitas', 'fitur', 'sesuai', 'genggaman']",netral
+13,"['perbarui', 'diperbarui', 'bagus', 'kendala', 'dicoba', 'perbarui', 'aplikasi']",netral
+14,"['fungsinya', 'aplikasi', 'aneh', 'komplain', 'diketik', 'hp', 'mengetik', 'note', 'copy', 'tempel', 'kolom', 'chat']",netral
+16,"['bayar', 'keterangannya', 'menunggu', 'pembayaran', 'mulu', 'ngehubungin', 'cs', 'menunggu', 'on', 'mengirim', 'keluhan', 'centang', 'aktif', 'jelek', 'aplikasi']",netral
+17,"['proses', 'pengembalian', 'dana', 'ikutan', 'promo', 'daya', 'promo', 'barang', 'batalin', 'eh', 'uangnya', 'chat', 'menunggu', 'email', 'kepastian', 'tolong', 'proses', 'secepatnya', 'nomor', 'lapor', 'dimohon', 'pln', 'tolong', 'bantu', 'kasih', 'bintang', 'kalo', 'uang', 'terima', 'kasih']",netral
+18,"['pengaduan', 'gangguan', 'mudah', 'tersedia', 'aplikasi', 'mantab']",netral
+21,"['daftar', 'berkali', 'whatsapp', 'pembayaran', 'giliran', 'bayar', 'teknisinya', 'bilang', 'pasang', 'giliran', 'uang', 'prosesnya', 'ribet']",netral
+24,"['tolong', 'diperbarui', 'riwayat', 'penggunaan', 'listrik', 'harian', 'mudah', 'mengontrol', 'penggunaan', 'listrik', 'harinya', 'terima', 'kasih']",netral
+31,"['chat', 'message', 'muncul', 'keyboard', 'laporan', 'pengaduan', 'status', 'selesai', 'aslinya', 'mesti', 'telepon', 'fitur', 'diaplikasinya', 'selebihnya']",netral
+32,"['bayar', 'bukti', 'a', 'aplikasi', 'pln', 'mobile', 'tagihan', 'pajak', 'penerangan', 'jalan', 'ppj', 'ditagihan', 'ppj', 'dibayar', 'pemerintah']",netral
+33,"['informasi', 'gangguan', 'mudah', 'telp', 'tinggal', 'lihat', 'progresnya', 'aplikasi']",netral
+38,"['bagus', 'aplikasinya', 'pemantau', 'pembayaran', 'pembayaran', 'tagihan', 'mudah', 'pilihan', 'alat', 'pembayaran', 'semoga']",netral
+39,"['pln', 'mobile', 'aplikasi', 'membantu', 'perlistrikan', 'pasang', 'daya', 'beli', 'token', 'listrik', 'mudah', 'semangat', 'tingkatkan', 'pelayanan', 'pln']",netral
+40,"['memuaskan', 'mudah', 'transaksi', 'pembelian', 'token', 'pembayaran', 'tagihan', 'rekening', 'listrik', 'laporan', 'pengaduan', 'gangguan', 'mudah', 'tracking', 'progress', 'laporan']",netral
+47,"['aplikasi', 'bagus', 'memudahkan', 'memanagemen', 'kelistrikan', 'bangunan', 'memudahkan', 'kelistrikan', 'pokoknya', 'its', 'the', 'best', 'unduh', 'nyesel']",netral
+54,"['aplikasi', 'mudah', 'membantu', 'bermanfaat', 'udate', 'perbaikannya']",netral
+55,"['aplikasinya', 'berkembang', 'fitur', 'mudah', 'bertransaksi', 'loh', 'informasi', 'ketersediaan', 'jaringan', 'internet', 'lokasi', 'pengguna', 'mobil', 'motor', 'listrik', 'lokasi', 'spklu', 'terdekat', 'tunggu', 'ayo', 'buruan', 'install', 'pln', 'mobile']",netral
+57,"['tolong', 'fasilitas', 'internet', 'adakan', 'fasilitasnya', 'harga', 'daerah', 'perbulannya', 'nampak', 'jgn', 'nampang', 'aplikasi', 'banget', 'order', 'daerah', 'tercover']",netral
+59,"['pembelian', 'token', 'listrik', 'indak', 'bagus', 'proses', 'nya', 'validasi', 'nya', 'transaksi', 'berjalan', 'searah', 'link', 'klaim', 'pembayaran', 'dibayar', 'tagihan', 'token', 'nya', 'statusnya', 'menunggu', 'pembayaran', 'link', 'klaim', 'pembayaran', 'aplikasi', 'penyedia', 'token', 'indak', 'nyampai', 'semenit', 'tolong', 'diperbaiki', 'kalo', 'bersaing', 'aplikasi']",netral
+60,"['mempermudah', 'pelanggan', 'kekantor', 'terdekat', 'aplikasi', 'pln', 'mobile', 'terbaik']",netral
+62,"['aplikasi', 'bagus', 'pembayaran', 'pengaduan', 'pelayanan', 'bagus', 'aplikasi', 'lakukan', 'pln', 'mobile']",netral
+64,"['membantu', 'mudah', 'membantu', 'keperluan', 'kelistrikan', 'mudah', 'beli', 'token', 'mudah', 'pemantauan', 'pemakaian', 'listik']",netral
+67,"['aplikasi', 'lengkap', 'fitur', 'repot', 'kantor', 'pln', 'diakses', 'aja', 'terima', 'kasih', 'pln']",netral
+70,"['bagus', 'riwayat', 'penggunaannya', 'detail', 'transaksi', 'detail', 'nya', 'masukkan', 'harga', 'kwh', 'detail']",netral
+73,"['aplikasi', 'pencuri', 'uang', 'rakyat', 'beli', 'token', 'listrik', 'terpotong', 'duitnya', 'aplikasi', 'statusnya', 'menunggu', 'pembayaran', 'saldo', 'kepotong', 'token', 'kirim', 'uang', 'hilang', 'kemana', 'nih', 'mengadu', 'kali', 'kayak', 'gini', 'tolong', 'ya', 'urus', 'permasalahan', 'x']",netral
+74,"['pembayaran', 'via', 'va', 'status', 'menunggu', 'pembayaran', 'chat', 'via', 'aplikasi', 'respon', 'menyalahkan', 'respon', 'haduh', 'ujung', 'nya', 'iya', 'telepon', 'perbaiki', 'tarif', 'pelayanan', 'kaya']",netral
+79,"['rasakan', 'aplikasi', 'mah', 'ribet', 'daftar', 'penyambungan', 'mesti', 'memasukkan', 'nid', 'masyarakat', 'nid', 'ujung', 'nya', 'daftar', 'aplikasi', 'daftar', 'bayar', 'via', 'atm', 'selesai', 'tinggal', 'nunggu', 'kwh', 'mah', 'ribeet']",netral
+81,"['informasi', 'perbarui', 'pemadaman', 'gangguan', 'bayar', 'tagihan', 'mudah', 'banget', 'fitur', 'monitoring', 'tagihan', 'jujur', 'terbantu', 'sih', 'terima', 'kasih', 'pln', 'berinovasi', 'pelayanan', 'terbaik', 'pelanggan']",netral
+86,"['pusatnya', 'cepet', 'orang', 'lapangannya', 'jelek', 'aplikasi', 'masak', 'lapor', 'telpon', 'mengasih', 'penjelasan', 'orang', 'lokasi', 'maaf', 'tunggu', 'aja', 'aplikasi', 'nya', 'mengasih', 'informasi', 'tangani', 'tangani']",netral
+87,"['aplikasi', 'bagus', 'mempermudah', 'pelanggan', 'informasi', 'seputaran', 'pln', 'terkhusus', 'pelanggan', 'pascabayar', 'mengirim', 'mencatat', 'pemakaian', 'bulanan', 'fitur', 'catat', 'meter', 'tanggal', 'langsung', 'estimasi', 'tagihan']",netral
+89,"['membantu', 'bermanfaat', 'usaha', 'berjualan', 'pulsa', 'listrik', 'pelunasan', 'reklis', 'coba', 'market', 'place', 'pln', 'mobile', 'lho', 'ngembangin', 'usaha', 'ayo', 'gabung']",netral
+91,"['aplikasinya', 'membantu', 'kali', 'input', 'tokennya', 'gagal', 'nomor', 'tokennya', 'pengaduan', 'jam', 'langsung', 'respon', 'input', 'token', 'beli', 'pln', 'mobile', 'joss']",netral
+92,"['aplikasinya', 'membantu', 'telepon', 'cc', 'kekantor', 'pln', 'langsung', 'pln', 'mobile', 'dimana', 'pasang', 'ubah', 'daya', 'cek', 'tagihan', 'listrik', 'lapor', 'keluhan', 'gangguan', 'aplikasi']",netral
+94,"['iconnet', 'iya', 'kak', 'muncul', 'iconnet', 'daftar', 'tercover']",netral
+95,"['membantu', 'banget', 'deh', 'gangguan', 'listrik', 'malem', 'banget', 'pakai', 'fitur', 'pengaduan', 'enaknya', 'tracking', 'petugas', 'banget', 'daftar', 'daya', 'promo', 'aplikasi']",netral
+103,"['transaksi', 'berhasil', 'saldo', 'rekening', 'berkurang', 'tagihan', 'sebentar', 'tanggal', 'kalo', 'ditangani', 'kena', 'denda', 'nih', 'brengsek', 'dasar', 'lemot', 'ngerefresh', 'iya', 'ilanglah', 'transaksinya']",netral
+112,"['tolong', 'wifi', 'jalan', 'internetnya', 'status', 'aplikasi', 'bayar', 'bayar', 'tolong', 'adminnya', 'fast', 'respon']",netral
+114,"['membantu', 'dipln', 'mobile', 'aplikasi', 'memudahkan', 'kekantor', 'mudah', 'teratasii', 'terima', 'kasih', 'pln']",netral
+116,"['gangguan', 'tangani', 'komplainnya', 'koneksi', 'mulu']",netral
+117,"['verifikasi', 'akunnya', 'bertele', 'tele', 'log', 'suruh', 'verifikasi', 'akun', 'biar', 'fitur', 'langsung']",netral
+119,"['aplikasi', 'pln', 'mobile', 'bermanfaat', 'mengatasi', 'permasalahan', 'kelistrikan', 'rumah', 'download', 'wajib', 'unduh', 'ni', 'mudah']",netral
+120,"['aplikasi', 'buruk', 'c', 'aplikasi', 'sekelas', 'pln', 'fiturnya', 'laporan', 'gangguan']",netral
+121,"['aplikasi', 'memuaskan', 'pengajuan', 'layanan', 'berbelit', 'belit', 'chat', 'customer', 'pelayanan', 'sulit', 'ngetiknya', 'cepat', 'suka', 'layanan', 'cs', 'via', 'telepon']",netral
+125,"['aplikasi', 'pembelian', 'token', 'listrik', 'gopay', 'masuk', 'saldo', 'gopay', 'terpotong', 'hubungi', 'cs', 'disuruh', 'email', 'email', 'disuruh', 'tunggu', 'listrik', 'rumah', 'mati', 'aplikasi']",netral
+126,"['aplikasi', 'aplikasinya', 'kayak', 'data', 'aman', 'masuk']",netral
+128,"['terbantu', 'pln', 'mobile', 'fitur', 'pembatalan', 'pengaduan']",netral
+129,"['mengaktifkan', 'pengaturan', 'pemberitahuan', 'pemadaman', 'listrik', 'contoh', 'pemadaman', 'notifikasii']",netral
+131,"['layanan', 'pengaduan', 'hilangkan', 'klik', 'teratasi', 'mengadu', 'teratasi', 'mananya', 'aplikasi']",netral
+133,"['kemarin', 'bintang', 'bintang', 'lumayan', 'bagus', 'apl', 'a', 'kendala', 'a', 'saldonya', 'kasih', 'masuk', 'kemarin', 'ambil', 'pembayaran', 'nomor', 'token', 'a', 'mode', 'tukar', 'hadiah', 'a', 'rilis']",netral
+134,"['laporan', 'meteran', 'tertulis', 'periksa', 'kirim', 'foto', 'kirim', 'foto', 'langsung', 'aplikasi', 'berkali', 'kali', 'iya', 'telepon', 'call', 'center', 'habis', 'pulsa', 'seenggaknya', 'rb', 'call', 'centernya', 'disarankan', 'lapor', 'aplikasi', 'kayak', 'diatas', 'iya', 'aplikasi']",netral
+136,"['aplikasi', 'nya', 'mengapai', 'kalo', 'fungsi', 'nya', 'coba', 'hilang', 'jaringan', 'ya', 'bagus', 'centang', 'live', 'chat', 'skali']",netral
+137,"['aplikasi', 'bagus', 'berguna', 'pemasang', 'lainya', 'terima', 'kasih', 'pln', 'mobile']",netral
+141,"['mohon', 'maaf', 'menu', 'live', 'chat', 'error', 'mengetik', 'menunggu', 'antrian', 'kali', 'berkali', 'kali']",netral
+142,"['membantu', 'kali', 'pengaduan', 'dilayani', 'susah', 'melapor', 'kantor', 'pln', 'susah', 'rumah', 'perbaiki', 'permasalahan', 'listrik', 'pokoknya', 'aplikasinya', 'bagus']",netral
+148,"['tanggap', 'token', 'dipakai', 'gagal', 'pilih', 'pengaduan', 'menit', 'pln', 'telepon', 'dikasih', 'petunjuk']",netral
+154,"['semenjak', 'perihal', 'pengembalian', 'dana', 'iconnet', 'whatsapp', 'csnya', 'balas', 'balas', 'pesan', 'menunggu', 'uang', 'direfund', 'terkait', 'gagal', 'pemasangan', 'internet', 'iconnet', 'jarak', 'tiang', 'please', 'butuh', 'pengembalian', 'dana', 'uang']",netral
+155,"['pelayanan', 'iconnet', 'pln', 'mohon', 'proses', 'pasang', 'mudahkan', 'ketersediaan', 'jaringan', 'iconnet', 'lingkungan', 'jaringan', 'pakai', 'langganan', 'indihome', 'telkomsel', 'masyarakat', 'tertarik', 'iconnet', 'ganti', 'indihome', 'iconnet', 'pln', 'terealisasi', 'jaringan', 'mohon', 'ketersediaan', 'jaringannya', 'proses', 'pasang']",netral
+156,"['aplikasi', 'nya', 'membantu', 'urusan', 'kelistrikan', 'beli', 'token', 'bayar', 'tagihan', 'kembangkan', 'bermanfaat']",netral
+158,"['bintang', 'laporan', 'gangguan', 'listrik', 'sih', 'okeh', 'laporan', 'gangguan', 'internet', 'aplikasi', 'koneksi', 'seluler', 'sekenceng', 'mohon', 'diperbaiki']",netral
+161,"['membayar', 'pemasangan', 'iconnet', 'aplikasi', 'pln', 'mobile', 'petugas', 'nya', 'pemasangan', 'tiang', 'pengaduan', 'aplikasi', 'mengembalikan', 'biaya', 'pemasangan', 'data', 'aplikasi', 'berubah', 'memasukan', 'id', 'pln', 'aplikasi', 'pengaduan', 'gagal', 'pengaduan', 'iconnet', 'pln', 'mobile']",netral
+168,"['aplikasi', 'verifikasi', 'meningkatkan', 'akun', 'foto', 'ktp', 'hasil', 'proses', 'x', 'jam', 'sebulan', 'verifikasi', 'berhasil']",netral
+169,"['aplikasi', 'bagus', 'penanganan', 'pelayanan', 'bagus', 'langsung', 'dikonfirmasi', 'djelaskan', 'kendala', 'ok', 'kedepannya']",netral
+171,"['pendaftaran', 'pembayaran', 'pemasangan', 'internet', 'iconnet', 'kabar', 'informasi', 'pemasangan', 'nya', 'coba', 'menghubungi', 'nomor', 'whatsapp', 'iconnet', 'komputer', 'mohon', 'dibantu']",netral
+172,"['membantu', 'cek', 'tagihan', 'beli', 'token', 'proses', 'pasang', 'daya', 'pengajuan', 'pengaduan', 'pemberitahuan', 'informasi', 'pemadaman']",netral
+173,"['kerja', 'iconnet', 'tindak', 'via', 'wa', 'email', 'pln', 'iconnet', 'aplikasi', 'live', 'chat', 'lempar', 'aduh']",netral
+179,"['potongan', 'harga', 'daya', 'beli', 'kompor', 'mitra', 'pln', 'tujuan', 'daya', 'biar', 'listrik', 'rumah', 'beli', 'kompor', 'kompornya', 'ih', 'pln', 'kasih', 'promo', 'daya', 'pasang', 'iconnet', 'lokasi', 'indak', 'jaringannya', 'menyulitkan', 'pelanggan', 'pln']",netral
+181,"['aplikasi', 'membantu', 'turun', 'daya', 'aplikasi', 'penambahan', 'daya', 'mengurus', 'perubahan', 'dayanya', 'disuruh', 'app', 'aplikasinya', 'kayak', 'gini']",netral
+184,"['memuaskan', 'aplikasi', 'penggunaan', 'token', 'listrik', 'kebelakang', 'muncul', 'kemarin']",netral
+185,"['aplikasi', 'penyambungan', 'perubahan', 'daya', 'selesai', 'kenyataan', 'selesai', 'petugas', 'kerumah', 'menghubungi', 'error', 'aplikasi', 'nya']",netral
+187,"['mengirim', 'pengaduan', 'kadang', 'gagal', 'tulisan', 'aplikasi', 'terhubung', 'server', 'sinyal', 'bagus', 'diperbaiki', 'server']",netral
+192,"['daftar', 'aplikasi', 'gagal', 'tersambung', 'server', 'mohon', 'diperbaiki']",netral
+200,"['kali', 'isi', 'token', 'pembayaran', 'berhasil', 'aplikasinya', 'masuk', 'rugi', 'nomor', 'token']",netral
+201,"['servernya', 'mohon', 'perbaiki', 'laporan', 'gangguan', 'pln', 'terbaik', 'integritas', 'handal', 'terbaik']",netral
+212,"['aplikasi', 'memanjakan', 'pelanggan', 'fitur', 'komplit', 'kebutuhan', 'pelanggan', 'terkait', 'informasi', 'pln', 'difasilitasi', 'suka', 'beli', 'token', 'biaya', 'layanan', 'bank', 'an', 'i', 'semoga', 'promo']",netral
+217,"['terima', 'kasih', 'pln', 'mobile', 'memudahkan', 'kalo', 'mati', 'listrik', 'kekantornya', 'tinggal', 'laporan', 'pln', 'mobile', 'oke', 'dibagian', 'pembayaran', 'semoga']",netral
+218,"['bolak', 'perbarui', 'tros', 'semoga', 'pilihan', 'perbarui', 'pakai', 'versi', 'hp', 'pelanggan', 'memorinya', 'bagus', 'kadang', 'nyukupin', 'perbarui', 'aplikasi', 'terima', 'kasih', 'pln', 'follow', 'up', 'permasalahan', 'ditunggu', 'tindak']",netral
+219,"['aplikasi', 'membantu', 'tolong', 'tingkatkan', 'menu', 'status', 'permohonan', 'konsumen', 'mengecek', 'status', 'permohonan', 'pb', 'pd', 'cetak', 'spk', 'belom', 'terima', 'kasih']",netral
+221,"['nama', 'alias', 'idpel', 'berubah', 'diganti', 'disave', 'nama', 'halaman', 'idpel']",netral
+223,"['aplikasinya', 'membantu', 'disaat', 'mati', 'lampu', 'keluh', 'kesah', 'aplikasi', 'pemberitahuan', 'kalo', 'perbaikan', 'jaringan', 'daerah', 'mudah', 'an', 'pelayanannya', 'bagus', 'terima', 'kasih', 'pln']",netral
+225,"['layanan', 'live', 'chatnya', 'membantu', 'antriannya', 'merespon', 'menit', 'ulang']",netral
+226,"['aplikasi', 'membantu', 'menginfokan', 'pemadaman', 'tagihan', 'pasang', 'migrasa', 'daya', 'gangguan', 'kantor', 'pln', 'aplikasinya', 'mudah']",netral
+229,"['aplikasi', 'pln', 'mobile', 'informasi', 'tagihan', 'daya', 'pengaduan', 'mudah', 'aplikasi', 'pln', 'mobile']",netral
+231,"['pln', 'mobile', 'bagus', 'aja', 'fitur', 'tambahan', 'menarik', 'pengumpulan', 'poin', 'voucher', 'undian', 'berhadiah', 'sayang', 'pokoknya', 'mantab', 'layak', 'kasih', 'bintang', 'terima', 'kasih', 'pln', 'mobile']",netral
+237,"['aplikasi', 'membantu', 'pengaduan', 'pembayaran', 'listrik', 'didukung', 'banyaknya', 'fitur', 'didalamnya']",netral
+239,"['aplikasi', 'bagus', 'membantu', 'pelayanan', 'gangguan', 'pelayanan', 'daya', 'pasang', 'loss', 'strom']",netral
+243,"['aplikasi', 'membantu', 'pasang', 'daya', 'aplikasi', 'laporan', 'gangguan', 'aplikasi', 'kantor', 'pln']",netral
+246,"['aplikasi', 'membantu', 'mempermudah', 'penanganan', 'kelistrikan', 'bayar', 'tag', 'listrik', 'beli', 'token', 'info', 'pemadaman', 'lap', 'gangguan', 'listrik', 'kantor', 'pln']",netral
+251,"['aplikasi', 'bermanfaat', 'berpergian', 'informasi', 'listrik', 'akses', 'mudah']",netral
+261,"['mempermudah', 'pengecekan', 'tagihan', 'daya', 'pasang', 'lagii', 'terima', 'kasih', 'pln', 'mobile']",netral
+263,"['membantu', 'tagihan', 'pengaduan', 'pasang', 'daya', 'migrasi', 'informasi', 'terkini', 'pln']",netral
+264,"['aplikasi', 'bagus', 'membantu', 'permasalahan', 'kelistrikan', 'area', 'pemadaman', 'pasang', 'data', 'migrasi', 'terima', 'kasih', 'pln']",netral
+266,"['ribet', 'pelajari', 'manfaatnya', 'mudah', 'pelaporan', 'gangguan', 'daya', 'terima', 'kasih', 'pln']",netral
+272,"['aplikasi', 'membantu', 'informasi', 'pemadaman', 'tagihan', 'pasang', 'migrasi', 'daya', 'pengaduan', 'menghemat', 'kantor', 'pln']",netral
+273,"['aplikasi', 'membantu', 'informasi', 'pemadaman', 'tagihan', 'pasang', 'daya', 'kantor', 'pln']",netral
+274,"['aplikasinya', 'bagus', 'fitur', 'belanja', 'komplit', 'bersaing', 'semoga', 'fiturnya', 'bertambah']",netral
+277,"['aplikasi', 'eror', 'bermutu', 'pelayanan', 'sesuai', 'jadwal', 'ditentukan', 'pembayaran', 'tanggal', 'mei', 'tanggapan', 'kerja', 'respon', 'aplikasi', 'kayak', 'aplikasi', 'bermutu', 'uangnya', 'aplikasi', 'abal', 'abal', 'mendaftar', 'agen', 'langsung', 'pasang', 'aplikasi', 'pln', 'mobile']",netral
+282,"['heran', 'daftar', 'bayar', 'terhubung', 'whatsapp', 'respon', 'pemasangan', 'jaringannya', 'heran']",netral
+283,"['terbantu', 'aplikasi', 'semoga', 'fitur', 'andalan']",netral
+284,"['tersajikan', 'informasi', 'tagihan', 'listrik', 'bulanannya', 'turunnya', 'pemakaian', 'listrik', 'mencatatkan', 'angka', 'stand', 'meternya', 'sesuai', 'dituliskan']",netral
+288,"['habis', 'perbarui', 'data', 'tagihan', 'membantu', 'bintang', 'kalo']",netral
+289,"['aplikasi', 'pln', 'sg', 'error', 'ya', 'perbarui', 'error', 'enak', 'beli', 'token', 'listrik', 'aplikasi', 'pln', 'mudah', 'ribet', 'tolong', 'diperbaiki', 'aplikasi', 'nya', 'ya']",netral
+290,"['aplikasi', 'berguna', 'fungsinya', 'coba', 'aplikasi', 'jelek', 'unduh', 'menyesal', 'aplikasi', 'bergunaa']",netral
+292,"['aplikasi', 'faedahnya', 'beli', 'token', 'no', 'vouchernya', 'aplikasi', 'makan', 'uang', 'negara']",netral
+294,"['aplikasi', 'pln', 'jaringan', 'iconnet', 'tercover', 'registrasi', 'besoknya', 'whatsapp', 'jaringan', 'iconnet', 'tahap', 'pembangunan', 'wilayah', 'tahap', 'pembangunan', 'selesai']",netral
+296,"['maaf', 'min', 'aplikasi', 'pln', 'mobile', 'nya', 'bayar', 'linkaja', 'error', 'tolong', 'perbaikannya']",netral
+297,"['aplikasi', 'bagus', 'kali', 'laporan', 'pengaduan', 'laporan', 'teratasi', 'mohon', 'konsisten', 'pelayanan', 'terima', 'kasih']",netral
+299,"['aplikasi', 'membantu', 'pembayaran', 'pln', 'mengecek', 'sisa', 'token', 'pengaduan', 'mengalami', 'kendala', 'prosesnya', 'terima', 'kasih']",netral
+300,"['unggah', 'foto', 'kamera', 'ngeblur', 'ganti', 'hp', 'bagus', 'hasil', 'nya', 'kamera', 'foto', 'hasilnya', 'bagus', 'aplikasi', 'hasilnya', 'bagus']",netral
+303,"['aplikasi', 'tahi', 'kendala', 'dihubungin', 'telepon', 'cs', 'email', 'respon']",netral
+305,"['sih', 'wifi', 'pasang', 'rumah', 'suruh', 'bayar', 'biaya', 'bulanan', 'nya', 'aplikasi', 'kayak', 'mainan', 'anak', 'aja']",netral
+306,"['membantu', 'adamasalah', 'pasang', 'daya', 'pengaduan', 'gangguan', 'buktikan']",netral
+307,"['sesuai', 'harapan', 'alasan', 'petugas', 'lapangan', 'alasan', 'bertambah', 'biaya', 'tarik', 'kabel', 'lumayan', 'instalasi', 'paralel', 'rumah', 'biar', 'uang']",netral
+310,"['membantu', 'unduh', 'mempermudah', 'informasi', 'tagihan', 'informasi', 'jamannya', 'komputerisasi', 'sistem', 'informasinya', 'mudah', 'diakses', 'auto', 'uninstal']",netral
+315,"['aplikasi', 'bagus', 'pln', 'mobile', 'mohon', 'pengajuan', 'pasang', 'pln', 'mobile', 'diperlancar', 'aplikasi', 'formalitas', 'erik', 'tohir', 'bumn', 'kayak']",netral
+318,"['aplikasi', 'membantu', 'mudah', 'ngecek', 'beli', 'token', 'pengaduan', 'pln', 'terbaik']",netral
+321,"['pelayanan', 'mengecewakan', 'mengajukan', 'pengembalian', 'dana', 'permohonan', 'dibatalkan', 'alasan', 'jaringan', 'pln', 'realisasi', 'tolonglah', 'dikembalikan', 'uang']",netral
+322,"['aplikasi', 'membantu', 'bagus', 'up', 'token', 'listrik', 'prabayar', 'pasca', 'bayar', 'tagihan', 'langsung', 'aplikasi', 'berguna']",netral
+323,"['verifikasi', 'versi', 'nya', 'enak', 'verifikasi', 'kadang', 'loading', 'nya', 'gagal', 'terhubung', 'servernya']",netral
+330,"['alhamdulillaah', 'aplikasinya', 'mantab', 'membantu', 'beli', 'token', 'bayar', 'tagihan', 'pln', 'terbaik']",netral
+331,"['edited', 'done', 'fitur', 'chat', 'nya', 'gaje', 'nulis', 'call', 'nya', 'oke', 'fast', 'respon', 'ya']",netral
+335,"['aplikasinya', 'membantu', 'memudahkan', 'membeli', 'token', 'info', 'pemadaman', 'semoga', 'kedepannya', 'ditingkatkan']",netral
+336,"['proses', 'transaksi', 'berjalan', 'transfer', 'status', 'menunggu', 'pembayaran', 'tolong', 'dibantu', 'diatasi']",netral
+347,"['ngk', 'nyesal', 'unduh', 'aplikasi', 'aplikasi', 'membantu', 'butuhkan', 'aplikasi', 'kantor', 'laporan', 'gangguan', 'terima', 'kasih', 'pln', 'is', 'the', 'best']",netral
+348,"['cs', 'fitur', 'live', 'chat', 'nya', 'tolong', 'ditambah', 'iya', 'memperlambat', 'pengaduan', 'jam', 'perbarui', 'fitur', 'nya', 'kadang', 'error']",netral
+351,"['naikin', 'bintang', 'lumayan', 'bagus', 'cepet', 'pertahankan', 'tingkatkan', 'bagus', 'diskon', 'pembelian', 'token', 'terima', 'kasih']",netral
+353,"['bintang', 'ya', 'aplikasinya', 'bagus', 'pengembalian', 'dana', 'cobalah', 'otomatis', 'apk', 'pakai', 'rumit', 'bayarnya', 'gampang', 'cepat', 'apk', 'terkendala', 'mohon', 'kembalikan', 'uang', 'pelanggan', 'otomatis', 'apk', 'kasih', 'rumit', 'mulainya', 'aplikasi', 'selesainya', 'aplikasi', 'pakai', 'isi', 'formulir', 'proses', 'relatif', 'pelanggan', 'sulit', 'uang', 'nya', 'kembli', 'mohon', 'pertimbangkan']",netral
+368,"['membantu', 'pelanggan', 'melaporkan', 'keluhan', 'gangguan', 'memudahkan', 'daya', 'pasang', 'bintang', 'deh', 'pokoknya']",netral
+369,"['aplikasi', 'bagus', 'mempermudah', 'pelayanan', 'pembayaran', 'pengaduan', 'pengaduan', 'gangguan', 'diharapkan', 'aplikasi']",netral
+371,"['seminggu', 'beli', 'token', 'nomor', 'token', 'nya', 'muncul', 'status', 'menunggu', 'pembayaran', 'alhasil', 'beli', 'token', 'aplikasi', 'mengecewakan']",netral
+373,"['pasang', 'listrik', 'sulit', 'lembaga', 'pln', 'urus', 'sertifikat', 'nomor', 'syarat', 'pasang', 'berpikir', 'luas', 'orang', 'awam', 'kasihan', 'pln', 'sloganya', 'bagus', 'nomor', 'suap', 'mengurus', 'pln', 'menyusahkan', 'orang', 'orang', 'awam', 'mengerti']",netral
+374,"['membantu', 'proses', 'transaksi', 'pembayaran', 'listrik', 'pembelian', 'token', 'semoga', 'bermanfaat', 'terima', 'kasih']",netral
+376,"['aplikasi', 'loading', 'tersambung', 'server', 'kualitas', 'jaringan', 'internet', 'ditempat', 'tolong', 'dibenahi']",netral
+377,"['aplikasi', 'membantu', 'informasi', 'kelistrikan', 'mudah', 'simple']",netral
+381,"['ma', 'af', 'ubah', 'review', 'nya', 'karna', 'nomor', 'id', 'pelanggan', 'pascabayar', 'prabayar', 'berubah', 'aplikasi', 'pln', 'kesulitan', 'beli', 'token', 'nya', 'aplikasi', 'pln']",netral
+391,"['aduh', 'aplikasi', 'bantuan', 'chat', 'menunggu', 'antrian', 'belasan', 'menit', 'aplikasi', 'beli', 'token', 'langsung', 'berhasil', 'beli', 'token', 'k', 'udah', 'bayar', 'jam', 'berhasil', 'bantuan', 'chat', 'aduh', 'parah', 'banget', 'pingin', 'pakai', 'wajan']",netral
+393,"['halo', 'kak', 'mohon', 'ulasan', 'dibaca', 'coba', 'hubungi', 'cs', 'antriannya', 'banget', 'coba', 'ulasan', 'transaksi', 'pembayaran', 'listrik', 'tanggal', 'juni', 'juni', 'keterangannya', 'proses', 'bayar', 'pastikan', 'saldo', 'e', 'wallet', 'berkurang', 'mohon', 'ditanggapi', 'iya', 'kak']",netral
+397,"['aplikasi', 'dibuka', 'pemberitahuan', 'error', 'internet', 'lancar', 'niat', 'aplikasi', 'siihh']",netral
+398,"['aplikasi', 'jelek', 'live', 'chat', 'nya', 'menulus', 'keluhan', 'pembelian', 'aplikasi', 'menunggu', 'pembayaran', 'beli', 'aplikasi', 'pln', 'mobile', 'token', 'muncul', 'pembayaran', 'kadaluarsa']",netral
+400,"['perusahaan', 'negara', 'aplikasi', 'ajah', 'aplikasi', 'pelayanan', 'mainan', 'pembayaran', 'sinkron', 'idpel', 'perbarui', 'bagus', 'busuk']",netral
+401,"['perbarui', 'asik', 'aplikasinnya', 'bayar', 'via', 'virtual', 'beli', 'token', 'listriknya', 'nongol', 'nomor', 'token', 'riwayat', 'transaksinya']",netral
+406,"['webnya', 'pln', 'mohon', 'diperbaharui', 'error', 'registrasi', 'cek', 'status', 'permohonan']",netral
+409,"['bukti', 'pembayaran', 'unduh', 'aplikasi', 'hubungi', 'email', 'iya', 'bayar', 'lunas', 'aplikasi', 'iya', 'status', 'menunggu', 'pelunasan']",netral
+413,"['halo', 'kak', 'mohon', 'bantuannya', 'bayar', 'tagihan', 'listrik', 'gagal', 'ya', 'muncul', 'tulisan', 'mohon', 'maaf', 'kesalahan', 'v', 'gagal', 'terhubung', 'server', 'mohon', 'solusinya']",netral
+415,"['beli', 'token', 'input', 'kode', 'token', 'meteran', 'teliti', 'sesuai', 'kode', 'token', 'tp', 'gagal', 'dicoba', 'berulang', 'kali', 'berbeda', 'jarak', 'menit', 'telepon', 'call', 'center', 'ajukan', 'pengaduhan', 'sesuai', 'disarankan', 'tp', 'langkah', 'pengaduhan', 'sulit', 'cantumkan', 'foto', 'kwh', 'meteran', 'stak', 'disitu', 'situ', 'plis', 'pln', 'pengisian', 'kode', 'token', 'meteran', 'permudah', 'persulit', 'biar', 'pelanggan', 'ngedownload', 'aplikasi', 'pln', 'mobile', 'solusinya']",netral
+416,"['beli', 'token', 'via', 'aplikasi', 'pembayarannya', 'via', 'bni', 'va', 'pembayaran', 'berhasil', 'statusnya', 'gagal', 'uangnya', 'kesangkut', 'dibalik', 'in', 'layanan', 'chat', 'cs', 'nya', 'berfungsi', 'balikin', 'uang', 'aplikasi', 'pelayanan', 'langsung', 'bumn', 'kualitasnya', 'kayak', 'gini']",netral
+418,"['aplikasi', 'bagus', 'memberikankan', 'kemudahan', 'pelangan', 'pelangan', 'sulit', 'listrik', 'pintar']",netral
+420,"['aplikasi', 'pln', 'mobile', 'bagus', 'membantu', 'pelayanan', 'pelanggan', 'tolong', 'dipertahankan', 'diperbarui', 'bagus', 'mutu', 'layanan', 'pln', 'mempermudah', 'kalangan', 'menengah', 'kebawah', 'pelanggan', 'hp', 'android']",netral
+421,"['aplikasi', 'membantu', 'memantau', 'sisa', 'pemakaian', 'token', 'kemudahan', 'terkait', 'informasi', 'program', 'informasi', 'peliharaan', 'jaringan', 'pokokny', 'aplikasi', 'pln', 'mobile', 'the', 'best', 'no']",netral
+426,"['perbarui', 'history', 'riwayat', 'pembelian', 'token', 'hilang', 'perbarui', 'oke', 'riwayat', 'pembelian', 'token', 'token', 'mohon', 'tim', 'developer', 'aplikasi', 'mempertimbangkan', 'terima', 'kasih']",netral
+429,"['membantu', 'mudah', 'simple', 'smga', 'kedepan', 'layanan', 'aplikasinya']",netral
+432,"['aplikasi', 'mempermudah', 'didalam', 'bertransaksi', 'pembayaran', 'rekening', 'listrik', 'pengaduan', 'pelangan', 'pasang', 'daya']",netral
+435,"['aplikasi', 'pln', 'mobile', 'membantu', 'repot', 'kantor', 'pln', 'mengantri', 'cs', 'ny', 'responsif', 'bagus', 'luck', 'pln', 'mobile', 'semoga', 'kedepannya']",netral
+437,"['aplikasi', 'bagus', 'transaksi', 'pln', 'sayang', 'beli', 'token', 'listrik', 'diinput', 'manual', 'ditingkatkan', 'menambah', 'menginput', 'token']",netral
+447,"['aplikasi', 'solutif', 'era', 'digital', 'jenis', 'layanan', 'genggaman', 'sekedar', 'masukan', 'bug', 'muncul', 'lambat', 'loading', 'diperbaiki']",netral
+448,"['membantu', 'informasi', 'perihal', 'kelistrikan', 'keluhan', 'laporan', 'gangguan', 'semoga', 'pln', 'mobile', 'berkembang', 'fitur', 'depanny']",netral
+449,"['aplikasinya', 'membantu', 'history', 'tagihan', 'listrik', 'pembelian', 'voucher', 'listrik', 'daftar', 'pasang', 'ubah', 'daya', 'aplikasi', 'tampilannya', 'user', 'friendly', 'banget']",netral
+450,"['mudah', 'pengaduan', 'listrik', 'mudah', 'pengajuan', 'pasang', 'ubah', 'daya', 'membeli', 'stroom']",netral
+451,"['one', 'of', 'the', 'best', 'aplikasi', 'that', 'i', 'have', 'been', 'used', 'sok', 'far', 'from', 'the', 'begining', 'until', 'finish', 'that', 'was', 'absolutlely', 'perfect', 'oh', 'iya', 'kalimat', 'mudah', 'ayo', 'unduh', 'aplikasi', 'new', 'pln', 'mobile', 'eits', 'lupa', 'pln', 'mudah']",netral
+453,"['aplikasi', 'nya', 'bagus', 'tagihan', 'listrik', 'membantu', 'mengisi', 'token', 'listrik', 'malam', 'pulsa', 'listrik', 'habis']",netral
+455,"['bermanfaat', 'gangguan', 'listrik', 'dimalam', 'semoga', 'kedepannya', 'ditingkatkan', 'pelayanannya']",netral
+457,"['mudah', 'membantu', 'kedepannya', 'harap', 'ditingkatkan', 'pengembangannya', 'promo', 'cashbacknya']",netral
+463,"['bagus', 'sihh', 'perbarui', 'coba', 'perbaiki', 'chatting', 'petugas', 'chat', 'masuk', 'petugas', 'notifnyaa', 'gitu', 'buka', 'aplikasi']",netral
+466,"['alhamdulillah', 'aplikasinya', 'bagus', 'membantu', 'memudahkan', 'mengatasi', 'kelistrikan', 'selamat', 'tingkatkan', 'pelayanan', 'pelanggan', 'pln', 'terbaik']",netral
+469,"['aplikasinya', 'bagus', 'fitur', 'membantu', 'pembayaran', 'tagihan', 'rek', 'beli', 'token', 'pengaduan', 'gangguan', 'keluhan', 'listrik', 'pengajuan', 'pasang', 'daya']",netral
+475,"['aplikasi', 'pln', 'mobile', 'memudahkan', 'pengecekan', 'tagihan', 'listrik', 'bulanan', 'sy', 'alhamdulillah', 'pln', 'mobile', 'marketplus', 'belanja', 'semoga', 'promo', 'iya', 'terima', 'kasih']",netral
+477,"['aplikasi', 'membantu', 'terkait', 'kebutuhan', 'pembayaran', 'pengajuan', 'keluhan', 'pln', 'aplikasi', 'topp', 'banget']",netral
+478,"['alhamdulillah', 'pln', 'mobile', 'mempermudah', 'kehabisan', 'token', 'informasi', 'tagihan', 'informasi', 'daya', 'informasi', 'pasang', 'informasi', 'pemadaman', 'pengaduan', 'gangguan', 'informasi', 'promo', 'hits', 'pln', 'mempermudah', 'semoga', 'pelayanan', 'nya', 'ditingkatkan']",netral
+479,"['aplikasi', 'membantu', 'penanganan', 'gangguan', 'listrik', 'rumah', 'bonus', 'belanja', 'markeplace', 'pln', 'mobile', 'terima', 'kasih', 'pln']",netral
+480,"['kasih', 'aja', 'login', 'pakai', 'email', 'jawabannya', 'aktif', 'pakai', 'nomor', 'hp', 'masuk', 'otp', 'berkali', 'reset', 'password', 'login']",netral
+481,"['membantu', 'pelanggan', 'aplikasi', 'kebutuhan', 'dipermudah', 'pembelian', 'token', 'pembelian', 'tagihan', 'listrik', 'fast', 'response', 'informasi', 'pemadaman']",netral
+486,"['alhamdulillah', 'terima', 'kasih', 'pln', 'aplikasi', 'pln', 'mobile', 'nya', 'membantu', 'kekantor', 'semoga', 'aplikasinya', 'bertambah', 'fitur', 'fiturnya', 'pln', 'terbaik']",netral
+487,"['aplikasinya', 'membantu', 'semoga', 'aplikasinya', 'menu', 'diakses', 'pelanggan', 'pelanggan', 'dimudahkan', 'terima', 'kasih', 'pln']",netral
+491,"['aplikasinya', 'mudah', 'diterapkan', 'menu', 'tambahan', 'markerplace', 'pilihan', 'belanja', 'cumasaran', 'tolong', 'tambahkan', 'fitur', 'pembayaran', 'biar', 'komplit', 'terima', 'kasih']",netral
+492,"['perbaikan', 'loading', 'lemot', 'semoga', 'depannya', 'laju', 'akses', 'fiturnya']",netral
+493,"['aplikasinya', 'memudahkan', 'bermanfaat', 'masukan', 'admin', 'tolong', 'perhatikan', 'pembelian', 'produk', 'pln', 'mobile', 'pengalaman', 'memilih', 'produk', 'pln', 'mobile', 'beli', 'keteranganya', 'produk', 'stok', 'barangnya']",netral
+496,"['aplikasi', 'bagus', 'laporan', 'langsung', 'monitor', 'proses', 'alurnya', 'laporan', 'tingkatkan', 'kehandalannya', 'ya', 'pln']",netral
+499,"['aplikasi', 'membantu', 'beli', 'token', 'listrik', 'bayar', 'tagihan', 'pengaduan', 'kantor', 'pln', 'pokoknya', 'aplikasi', 'urusan', 'mudah', 'bangett', 'semoga', 'konsisten', 'min']",netral
+506,"['membantu', 'pln', 'terbaik', 'torang', 'indonesia', 'timur', 'rumahnya', 'kantor', 'akses', 'internet', 'terbantu', 'dangke', 'pln']",netral
+507,"['mudah', 'pengoperasiannya', 'tampilannya', 'now', 'banget', 'informasi', 'tagihan', 'swa', 'cam', 'membantu', 'cash', 'management']",netral
+509,"['membantu', 'percepatan', 'pembayaran', 'reward', 'pemotongan', 'biaya', 'admin', 'pembayaran', 'pembelian', 'langsung', 'kalah', 'aplikasi', 'the', 'best', 'all', 'one', 'on', 'aplication', 'mobile']",netral
+515,"['alhamdulillah', 'proses', 'daya', 'pasang', 'pengaduan', 'gangguan', 'mudah', 'ditambah', 'promo', 'menarik']",netral
+518,"['aplikasi', 'bagus', 'layanan', 'pln', 'genggaman', 'tingkatkan', 'min', 'semoga', 'aplikasinya', 'berkembang', 'mendorong', 'kemajuan', 'pln']",netral
+520,"['membantu', 'karna', 'perubahan', 'daya', 'kendalanya', 'motode', 'pembayaran', 'bank', 'bsi', 'tersedia', 'nya', 'aplikasi', 'lengkap', 'pakai', 'motode', 'pembayaran', 'nya', 'nya', 'via', 'transfer', 'bank', 'suruh', 'akun', 'motode', 'pembayaran', 'sulit', 'nya']",netral
+522,"['bayar', 'tagihan', 'listrik', 'beli', 'token', 'ok', 'permintaan', 'pasang', 'ubah', 'daya', 'peny', 'mbungan', 'ok', 'catat', 'meter', 'ok', 'layanan', 'pengaduan', 'ok', 'layanan', 'mempermudah', 'pelanggan', 'pln', 'pln', 'mobile', 'terbaik']",netral
+524,"['pln', 'mobile', 'memudahkan', 'layanan', 'layanan', 'ditunggu', 'masyarakat', 'gangguan', 'kekantor', 'pln', 'daya', 'mudah', 'pembelian', 'token', 'pencatatan', 'meter', 'pribadi', 'simulasi', 'perubahan', 'daya', 'masukan', 'mohon', 'aplikasi', 'banggakan', 'andalkan', 'teman', 'user', 'menangani', 'eksekusi', 'dilapangan', 'konsisten', 'menjalaninya', 'sesuai', 'target', 'digariskan', 'tercapai', 'visi', 'misi', 'pln']",netral
+528,"['ditingkatkan', 'aplikasinya', 'live', 'chat', 'cs', 'menunggu', 'antrian', 'mengetik', 'mengetik', 'keyboard', 'muncul']",netral
+531,"['aplikasi', 'membantu', 'lapor', 'gangguan', 'cek', 'status', 'laporan', 'gangguan', 'daftar', 'pasang', 'daya', 'migrasi', 'pasca', 'bayar', 'prabayar']",netral
+532,"['tagihan', 'listrik', 'nya', 'error', 'ya', 'bayar', 'enak', 'nya', 'error', 'mohon', 'perbaiki']",netral
+533,"['proses', 'transaksinya', 'transfer', 'status', 'menunggu', 'pembayaran', 'layanan', 'pengaduan', 'chat', 'berfungsi', 'telepon', 'dikenai', 'pulsa', 'lumayan', 'status', 'berhasil', 'aplikasi', 'muncul', 'memasukkan', 'tokennya', 'jelek', 'banget', 'diperbarui', 'fiturnya']",netral
+534,"['aplikasi', 'bagus', 'kekurangan', 'nya', 'perbarui', 'data', 'pelanggan', 'mengecek', 'tagihan', 'icconet', 'daftar', 'iconnet', 'aplikasi', 'pln', 'mobile', 'semoga', 'kedepan', 'perbarui', 'data', 'pelanggan', 'biar', 'cek', 'tagihan', 'listrik', 'internet', 'aplikasi', 'pln', 'mobile', 'thanks']",netral
+536,"['aplikasi', 'error', 'sih', 'beli', 'token', 'listrik', 'pembayaran', 'berhasil', 'menunggu', 'pembayaran', 'aplikasi', 'plnnya', 'token', 'nasib', 'nya']",netral
+545,"['fitur', 'live', 'chat', 'pengetikan', 'fitur', 'tsb', 'meningkatkan', 'verifikasinya', 'x', 'jam', 'informasikan']",netral
+546,"['aplikasinya', 'sih', 'daftar', 'daya', 'listrik', 'verifikasi', 'data', 'diverifikasi', 'tolong', 'penjelasannya']",netral
+548,"['min', 'akun', 'daftar', 'log', 'nomor', 'hp', 'log', 'out', 'log', 'nomor', 'hp', 'masuk', 'notifikasinya', 'nomor', 'hp', 'dipakai', 'mohon', 'dibantu', 'min', 'nomor', 'hp', 'pakai', 'verifikasi', 'data', 'aplikasi', 'pln', 'mobile']",netral
+554,"['membantu', 'aplikasinya', 'repot', 'kantor', 'mengantri', 'csnya', 'responsif', 'bagus', 'luck', 'pln', 'mobile', 'semoga', 'depannya']",netral
+558,"['aplikasi', 'bagus', 'transaksi', 'pln', 'sayang', 'beli', 'token', 'listrik', 'diinput', 'manual', 'ditingkatkan', 'beli', 'token', 'langsung', 'menambah', 'menginput', 'token']",netral
+560,"['aplikasi', 'pln', 'mobile', 'mempermudah', 'pengaduan', 'terkait', 'kelistrikan', 'petugasnya', 'fast', 'respon', 'menunggu', 'konfirmasinya', 'berdasarkan', 'pengalaman', 'pengaduan', 'isi', 'token', 'gagal', 'jam', 'menit', 'konfirmasi']",netral
+562,"['live', 'chaat', 'cs', 'mengetik', 'mengetik', 'maksudnya', 'kayak', 'ya', 'fungsinya', 'papan', 'keyboardnya', 'aplikasi', 'buruk']",netral
+564,"['error', 'transaksi', 'pengisian', 'token', 'tertera', 'cek', 'pemakaian', 'tertera', 'token', 'habis', 'padalah', 'isi', 'bagus', 'aplikasi', 'diperbaharui']",netral
+565,"['aplikasinya', 'jelek', 'berkali', 'kali', 'laporan', 'pakai', 'aplikasi', 'giliran', 'pertengahan', 'aplikasinya', 'operator', 'pln', 'pusat', 'nyuruh', 'pakai', 'aplikasi', 'aplikasinya', 'jelek', 'gini', 'ganti', 'kartu', 'paketan', 'jaringan', 'g', 'full']",netral
+570,"['sih', 'lawak', 'banget', 'admin', 'aplikasinya', 'keterangan', 'pengaduan', 'selesai', 'hasil', 'nya', 'laporan', 'pengaduan', 'tanggapi', 'keterangan', 'selesai', 'tolonglah', 'kebijakannya', 'bos', 'tunggu', 'jam']",netral
+571,"['pelayanan', 'pln', 'aplikasi', 'aplikasi', 'sesuai', 'pelayanan', 'dilapangan', 'tim', 'penugasan', 'perbaikan', 'sesuai', 'dinyatakan', 'didalam', 'aplikasi', 'menit', 'omongan', 'belaka', 'pln', 'mengejar', 'rating', 'aplikasi', 'menyala', 'dilapangan']",netral
+576,"['pemberitahuan', 'token', 'stok', 'token', 'dipemberitahuan', 'dibilang', 'habis', 'habis', 'mengisi', 'token', 'notifikasinya', 'berubah', 'dibilang', 'habis', 'mhn', 'perbaikan', 'sistem', 'aplukasinya']",netral
+578,"['nya', 'bingung', 'nya', 'dicoba', 'semoga', 'cepat', 'respon', 'gangguan', 'listrik']",netral
+584,"['membantu', 'fast', 'respon', 'mudah', 'mengecek', 'tagihan', 'listrik', 'mudah', 'pengaduan', 'gangguan', 'petugas', 'ready', 'tingkatkan', 'kualitas', 'pelayanan', 'terbaik', 'kenyamanan', 'masyarakat']",netral
+587,"['bagus', 'menu', 'live', 'chat', 'cs', 'keyboard', 'tulisan', 'cs', 'menulis', 'pesan', 'batas', 'habis', 'berkali', 'kali', 'dicoba', 'berhari', 'aplikasi', 'terupdate', 'akun', 'verified']",netral
+591,"['fitur', 'marketplace', 'perbarui', 'komunikasi', 'buyer', 'seller', 'via', 'wa', 'nya', 'customer', 'service', 'marketplace', 'buyer', 'kesulitan', 'pesanan', 'barang', 'kirim', 'buyer', 'komunikasi', 'via', 'whatsapp', 'seller', 'nya', 'perantara', 'komunikasi', 'customer', 'service', 'pesanan', 'terkirim', 'marketplace', 'rekening', 'dimana', 'paket', 'uang', 'buyer', 'nya', 'terima', 'kasih']",netral
+592,"['aplikasi', 'live', 'chat', 'pemberitahuan', 'menit', 'menunggu', 'antrean', 'terhubung', 'pemberitahuan', 'balon', 'suara', 'tinggalkan', 'pesan', 'dibales', 'jam', 'sia']",netral
+595,"['aplikasi', 'sesuai', 'pembayaran', 'aplikasi', 'fast', 'respon', 'seandainya', 'diskon', 'pembelian', 'aplikasi', 'pln', 'penguna']",netral
+601,"['kasih', 'bintang', 'menemui', 'kendala', 'perbarui', 'melengkapi', 'profil', 'akun', 'aplikasi', 'mobilenya', 'terima', 'kasih', 'pelayanannya', 'semoga', 'membantu', 'pelanggan', 'pelanggan', 'pln']",netral
+602,"['bohong', 'berbohong', 'banget', 'penanganan', 'boro', 'perbaiki', 'petugasnya', 'nongol', 'aplikasi', 'ngasal', 'bertemu', 'aplikasi', 'asalan', 'kayak', 'game', 'realnya', 'status', 'aplikasi', 'aja', 'penanganan', 'gangguan', 'nol']",netral
+603,"['cetak', 'struk', 'cetak', 'disuruh', 'perbaharui', 'ktp', 'npwp', 'giliran', 'perbaiki', 'data', 'disimpan', 'solusinya', 'ya', 'butuh', 'keperluan', 'masuk', 'kuliah']",netral
+606,"['layanan', 'pengaduan', 'nya', 'berguna', 'pemadaman', 'listrik', 'jam', 'malam', 'kesulitan', 'anak', 'bayi', 'kepanasan', 'menangis', 'terusan', 'pemadaman', 'maksimal', 'jam', 'enak', 'nya', 'padamin', 'listrik', 'nya', 'aplikasi']",netral
+608,"['pelayanan', 'pln', 'mobile', 'bagus', 'menyimpan', 'id', 'pelanggan', 'menyimpan', 'id', 'pelangan']",netral
+609,"['pembayaran', 'iconnet', 'tanggal', 'mei', 'pertanggal', 'mei', 'tindakan', 'mengajukan', 'pengaduan', 'aplikasi', 'error']",netral
+610,"['aplikasinya', 'cek', 'status', 'ktp', 'nya', 'pemasangan', 'indak', 'muncul', 'ya', 'pemberitahuan', 'subsidi', 'muncul']",netral
+611,"['aplikasi', 'bagus', 'pemberitahuan', 'membayar', 'mendekati', 'tanggal', 'mohon', 'membayar', 'tambahkan', 'pembayaran', 'dana', 'mempermudah', 'pembayaran', 'listrik']",netral
+613,"['iconnet', 'sinyal', 'nya', 'drop', 'banget', 'langganan', 'mbps', 'dapatnya', 'mbps', 'kasih', 'bintang', 'aplikasi', 'nya', 'beli', 'token', 'listrik']",netral
+615,"['pelayanan', 'iconnet', 'nya', 'buruk', 'pengembalian', 'dana', 'kirim', 'instagram', 'laporan', 'kali', 'prosesnya', 'eh', 'alasannya', 'mengirim', 'data', 'formulir', 'buruk', 'banget', 'pelayanan', 'iconnet', 'nya', 'mengapai', 'sih', 'dimana', 'mah', 'terpasang', 'iya', 'bayar', 'daftar', 'bayar', 'cek', 'lokasi', 'lokasi', 'teknisi', 'nya', 'bilang', 'jaringan', 'nya', 'full', 'disuruh', 'pengembalian', 'dana', 'haloo', 'pln']",netral
+618,"['percaya', 'layanan', 'pln', 'berkunjung', 'operasional', 'pengaduan', 'layanan', 'pln', 'telepon', 'mengadu', 'google', 'play', 'dilayani', 'coba', 'marketplace', 'pln', 'promo', 'daya', 'marketplacenya', 'perbaikan', 'disisi', 'akses', 'menampilkan', 'produk', 'lambat', 'semoga', 'umkm', 'berpartisipasi', 'menjual', 'produk', 'marketplace', 'pln', 'pln', 'fokus', 'layanan', 'utamanya']",netral
+620,"['terverifikasi', 'chat', 'customer', 'service', 'keterangan', 'service', 'error', 'kolom', 'chat', 'muncul', 'cs', 'muncul', 'layar', 'tolong', 'tanggapi', 'coba', 'berkali', 'kali']",netral
+621,"['malam', 'lampu', 'padam', 'tetangga', 'padam', 'melewati', 'aplikasi', 'klik', 'pengaduan', 'respon', 'cepat', 'langsung', 'telepon', 'pekerja', 'kelokasi', 'terima', 'kasih']",netral
+622,"['pengaduan', 'terkait', 'token', 'diisi', 'tulisan', 'periksa', 'kwh', 'komplain', 'logout', 'aplikasi', 'pengambilan', 'foto', 'meterannya', 'mohon', 'solusinya', 'sisa', 'token', 'habis']",netral
+623,"['aplikasi', 'perbarui', 'perbarui', 'usahakan', 'aplikasi', 'diblokir', 'pln', 'jualan', 'listrik', 'jualan', 'perbarui', 'aplikasi', 'terpaksa', 'bintang', 'turun', 'lapor', 'kerusakan', 'ditimbulkan', 'sambungan', 'tiang', 'rumah', 'ngepong', 'karat', 'listrik', 'mati', 'alasan', 'perbarui', 'aplikasi']",netral
+626,"['metode', 'pembayaran', 'flexible', 'pakai', 'e', 'wallet', 'dipakai', 'transaksi', 'diatas', 'jt', 'pilhan', 'va', 'bank', 'mohon', 'diperbanyak', 'pilihan', 'pembayarannya', 'terima', 'kasih']",netral
+630,"['bintang', 'ya', 'pakai', 'aplikasi', 'pengguna', 'pascabayar', 'coba', 'bayar', 'tagihan', 'cashback', 'diskon', 'dijanjikan', 'tuh', 'rincian', 'tagihan', 'biar', 'muncul', 'tagihan', 'segitu', 'darimananya']",netral
+633,"['daya', 'disuruh', 'meningkatkan', 'akun', 'x', 'ditolak', 'meningkatkan', 'akun', 'x', 'nya', 'aplikasi', 'meningkatkan', 'butuh', 'xjam', 'meningkatkan', 'tanggal', 'mei', 'mei', 'respon', 'aplikasi', 'menyebalkan']",netral
+635,"['aplikasi', 'bermanfaat', 'bilamana', 'unit', 'posko', 'pln', 'mobile', 'dimana', 'berguna', 'membantu', 'masyarakat', 'aplikasi', 'orang', 'masyarakat', 'menggunakannya', 'aplikasi', 'bagus', 'bermanfaat', 'kinerja', 'pln', 'pelayanan', 'orang', 'menggunakannya', 'posko', 'pln', 'mobile', 'unit', 'daerah', 'kelola', 'badan', 'usaha', 'masyarakat', 'pln']",netral
+637,"['puas', 'beli', 'token', 'pln', 'mobile', 'lumayan', 'miring', 'harganya', 'beli', 'keterangan', 'transaksi', 'lunas', 'nomor', 'token', 'transaksi', 'mobile', 'banking', 'biar', 'uang', 'ya', 'biar', 'kecewa', 'tdk', 'ragu', 'memakai', 'aplikasi', 'pln', 'mobile']",netral
+639,"['permohonan', 'penyambungan', 'sulit', 'nya', 'ampun', 'pake', 'buka', 'situs', 'sih', 'ujang', 'susah', 'banget', 'akun', 'sih', 'ujang', 'nya', 'tolong', 'daftar', 'penyambungan', 'gampang', 'gk', 'ribet', 'kerja', 'laen', 'pln', 'ya', 'pln', 'aja']",netral
+640,"['pembayaran', 'cek', 'tagihan', 'pembelian', 'token', 'mudah', 'perbanyak', 'diskon', 'kupon', 'potongan', 'langsung', 'pembayaran', 'biar', 'menarik', 'aplikasi']",netral
+649,"['perbaikkan', 'systemnya', 'proses', 'laporan', 'pemadaman', 'aplikasi', 'menit', 'submit', 'langsung', 'pemberitahuan', 'pemadaman', 'selesai', 'nyala', 'konfirmasi', 'petugas', 'nya', 'main', 'finish', 'aja', 'coba', 'dibantu', 'sync', 'realtime', 'nya', 'iya', 'min', 'petugasnya', 'inisiatif', 'telepon', 'customer', 'cs', 'nya', 'emm', 'semangat', 'tim', 'cs', 'nya', 'ya', 'semoga']",netral
+650,"['bagus', 'aplikasinya', 'biyasa', 'membantu', 'indonesia', 'dg', 'kestemer', 'butuh', 'informasi', 'butuhkan', 'pln']",netral
+651,"['menu', 'pengaduan', 'pilih', 'jenis', 'gangguan', 'muncul', 'muat', 'ulang', 'pengaduan']",netral
+653,"['pembayaran', 'tagihan', 'listrik', 'aplikasi', 'mengalami', 'kegagalan', 'pembayaran', 'saldo', 'bank', 'terpotong', 'aplikasi', 'pln', 'mobile', 'terbayar', 'ditanggapi', 'cs', 'dana', 'kembalikan', 'max']",netral
+655,"['aplikasi', 'membantu', 'laporan', 'gangguan', 'klik', 'pengaduan', 'langsung', 'tanggapi', 'petugas', 'butuh', 'sesuai', 'jarak', 'petugas', 'pln', 'utamakan', 'keselamatan', 'bertugas']",netral
+657,"['data', 'pemakaian', 'sesuai', 'pemakaian', 'dikit', 'bilang', 'tokenya', 'bilang', 'habis', 'tolong', 'perbaiki']",netral
+658,"['pengaduannya', 'dana', 'pengembalian', 'dana', 'nya', 'ribet', 'memperbaiki', 'jaringan', 'internet', 'iconnet', 'merekrut', 'teknisinya', 'biar', 'orang', 'bernasib']",netral
+664,"['mengecewakan', 'data', 'aplikasi', 'berubah', 'nya', 'halo', 'pln', 'aplikasi', 'ganti', 'orang', 'login', 'aplikasi', 'mengubah', 'data', 'mengecewakan', 'jaminan', 'konfirmasi', 'kemarin']",netral
+665,"['aplikasinya', 'bagus', 'masukan', 'tolong', 'menu', 'riwayat', 'penggunaan', 'mohon', 'disertakan', 'menu', 'unduh', 'riwayat', 'penggunaan', 'excell', 'pdf', 'berguna', 'pemantauan', 'pemakaian', 'listrik', 'jangka']",netral
+680,"['membantu', 'menyelesaikan', 'keluhan', 'pelanggan', 'saran', 'pengaduan', 'gangguan', 'keluhan', 'terselesaikan', 'aplikasi', 'selesakan', 'pelanggan', 'memantau', 'membikin', 'laporan', 'ulang']",netral
+681,"['pemasangan', 'iconnet', 'terhubung', 'koneksi', 'internetnya', 'teknisinya', 'internetnya', 'bilang', 'coba', 'langsung', 'pergi', 'informasi', 'pelayanan', 'teknisi', 'iconnet', 'memuaskan', 'menghubungi', 'cs', 'respon', 'tolong', 'tindak', 'lanjuti', 'bayar', 'biaya', 'pemasangan', 'wifi', 'iconnetnya', 'terpasang', 'internetnya', 'teknisinya', 'uang', 'k', 'jasa', 'pemasangannya']",netral
+683,"['alhamdulillah', 'aplikasi', 'terbantu', 'listrik', 'pln', 'pembayaran', 'tagihan', 'pengaduan', 'gangguan']",netral
+686,"['selfie', 'ktp', 'akun', 'rekening', 'bank', 'bank', 'keamanan', 'data', 'nasabahnya', 'tolong', 'ditinjau', 'syarat', 'foto', 'ktp', 'selfie', 'tsb', 'terima', 'kasih']",netral
+690,"['pengaduan', 'mati', 'listriknya', 'bilang', 'benerin', 'kelar', 'malam', 'mulu', 'sulit', 'pengaduan', 'daftar', 'listrik', 'mati']",netral
+691,"['aktivasi', 'saldo', 'server', 'nya', 'pulsa', 'sms', 'otp', 'nya', 'berkali', 'kali', 'coba', 'wae']",netral
+692,"['merepotkan', 'menyelesaikan', 'pengguna', 'bodoh', 'mengerti', 'maksud', 'tujuannya', 'konfirmasi', 'fb', 'apk', 'selesai']",netral
+693,"['bintang', 'aja', 'sih', 'pakai', 'aplikasi', 'foto', 'meteran', 'pln', 'yg', 'angka', 'meteran', 'dimasukin', 'diisi', 'diaplikasinya', 'terjebak', 'kesalah', 'isi', 'disamain', 'foto', 'meteran', 'alhasil', 'tagihan', 'listrik', 'terakumulasi', 'bln', 'daya', 'mah', 'rempahan', 'peyek', 'bayar', 'tagihan', 'bln', 'pembayaran', 'kemarin', 'abudemen', 'mbaknya']",netral
+695,"['tolong', 'informasinya', 'pembayaran', 'nontaglis', 'pasang', 'pembayaran', 'via', 'va', 'gagal', 'daftar', 'via', 'pln', 'mobile', 'tanggal', 'mei', 'kendala', 'didalam', 'sistem', 'pembayaran', 'mohon', 'informasinya']",netral
+696,"['listrik', 'ganti', 'pasca', 'bayar', 'pra', 'bayar', 'berkali', 'kali', 'pengaduan', 'tulisan', 'periksa', 'meteran', 'diisi', 'pulsa', 'maungisi', 'pulsa', 'pengaduan', 'sikasih', 'templer', 'tolong', 'dipeebaiki', 'peringatannpulsa', 'habis', 'bunyi', 'mohon', 'dikirim', 'templer', 'diperbaik', 'jaringannya', 'kerepotan', 'isi', 'pulsa', 'terimakasih']",netral
+697,"['meningkatkan', 'verivikasi', 'data', 'tp', 'ya', 'tolong', 'bantuan', 'kerja', 'nya', 'ya']",netral
+699,"['terima', 'kasih', 'pln', 'solusi', 'layanan', 'lokasinya', 'aplikasi', 'nya', 'settingan', 'gps', 'nya']",netral
+700,"['menampilkan', 'tagihan', 'iconnet', 'menu', 'iconnet', 'status', 'pesanan', 'pemasangan', 'iconnet', 'maret', 'adukan', 'via', 'email', 'cs', 'disuruh', 'perbarui', 'pln', 'mobile', 'perbarui', 'versi', 'merepotkan', 'bayar', 'tagihan', 'payment', 'point', 'alfamart', 'indomaret', 'pembayaran', 'via', 'va', 'baca', 'gagal', 'mengikuti', 'langkah', 'invoice', 'tagihan', 'lapor', 'cc', 'selesai', 'cc', 'respon']",netral
+701,"['alhamdulillah', 'aplikasi', 'mambantu', 'briva', 'transfer', 'pembayaran', 'mohon', 'meningkatkan', 'bsi']",netral
+703,"['aplikasi', 'error', 'pengaduan', 'berpungsi', 'dibutuhkan', 'adminnya', 'dimana', 'sih', 'perbikilah', 'urus', 'model', 'berlarut', 'larut', 'yg', 'aplikasinya', 'bagus', 'bermasalah', 'yg', 'pulsa', 'habis', 'hubungi', 'call', 'center']",netral
+704,"['layanan', 'cs', 'nya', 'berbelit', 'dikasih', 'mnt', 'fitur', 'mengetik', 'perbaiki']",netral
+705,"['aplikasi', 'error', 'daya', 'lunas', 'biaya', 'bulanan', 'submit', 'alert', 'melunasi', 'piutang', 'kewajiban', 'live', 'chat', 'dipakai', 'mengetik', 'pesan']",netral
+706,"['menu', 'notifikasi', 'fitur', 'pengguna', 'menandai', 'pemberitahuan', 'terbaca', 'klik']",netral
+707,"['fitur', 'isinya', 'muat', 'ulang', 'perbarui', 'aplikasinya', 'berfungsi', 'aplikasi', 'bermanfaat', 'banget', 'perbarui', 'buka', 'fitur', 'muat', 'ulang']",netral
+708,"['kesulitan', 'pendaftaran', 'memasukkan', 'nomor', 'id', 'pemasangan', 'instalasinya', 'ribet', 'pelanggan', 'permudah', 'ujung', 'nya', 'uang', 'dinamakan', 'izin', 'pintu']",netral
+709,"['maaf', 'kasih', 'bintang', 'informasi', 'print', 'ulang', 'pembelian', 'token', 'listrik', 'time', 'improve', 'aplikasi', 'mempermudah', 'penggunanya']",netral
+710,"['mencoba', 'isi', 'token', 'aplikasi', 'pln', 'mobile', 'pembayaran', 'via', 'baca', 'virtual', 'account', 'ya', 'minggu', 'kendala', 'tolong', 'pencerahannya', 'min']",netral
+712,"['nomor', 'hp', 'diubah', 'activate', 'diklik', 'diisikan', 'pin', 'muncul', 'tulisan', 'email', 'already', 'registered', 'another', 'user', 'akun', 'pln', 'terverifikasi', 'isi', 'saldo', 'sih', 'rugi', 'aplikasi', 'dipersulit']",netral
+713,"['aplikasi', 'pasang', 'listrik', 'cma', 'henti', 'tahap', 'pilihan', 'terpasang', 'iml', 'pilih', 'menu', 'selanjut', 'ny', 'full', 'service', 'aplikasi']",netral
+720,"['daftar', 'memasukkan', 'nomor', 'hp', 'jawabannya', 'sistem', 'sibuk', 'coba', 'skrang', 'system', 'nya', 'sibuk', 'sibuk', 'woi']",netral
+721,"['butuhkan', 'registrasi', 'memasukkan', 'id', 'pelanggan', 'kali', 'buka', 'aplikasi', 'tagihan', 'kwh', 'riwayat', 'tagihan', 'indihome', 'enak']",netral
+723,"['bagus', 'memudahkan', 'konsumen', 'pln', 'perbaikan', 'beli', 'pulsa', 'pembayaran', 'pakai', 'briva', 'langsung', 'arahkan', 'aplikasi', 'brimo', 'aplikasi']",netral
+724,"['sarankan', 'points', 'aplikasi', 'undi', 'jadikan', 'rupiah', 'pln', 'rugi', 'poin', 'rupiah', 'pelanggan', 'pelanggan', 'poin', 'didapatnya', 'kedalam', 'pembayaran', 'tagihan', 'semoga', 'ditanggap']",netral
+730,"['membantu', 'tp', 'mohon', 'pelayanan', 'perbaiki', 'laporan', 'perbaikan', 'selesai', 'jam', 'listrik', 'nyala', 'laporan', 'telepon', 'petugas', 'larang', 'laporan', 'berkali', 'kali', 'pdhl', 'taunya', 'melapor', 'nyala', 'iya', 'lapor', 'perbaikan', 'selesai', 'ditulis', 'menyebabkan', 'salah', 'paham']",netral
+733,"['pemasangan', 'wifi', 'nya', 'bertele', 'tele', 'bgt', 'bayar', 'indak', 'menunggu', 'kerja', 'd', 'pasang', 'wifi', 'nya', 'giliran', 'pemasangan', 'hubungi', 'cs', 'nya', 'd', 'bilang', 'pembayaran', 'terkena', 'kliring', 'indak', 'menunggu', 'kerja', 'nya', 'pemberitahuan', 'kalo', 'pembayaran', 'terkena', 'kliring', 'parah', 'iconnet', 'hati', 'iya']",netral
+737,"['teratasi', 'barang', 'diterima', 'semoga', 'pln', 'mobile', 'marketplace', 'meningkatkan', 'fungsi', 'aplikasi', 'pelayanannya', 'terima', 'kasih']",netral
+740,"['pln', 'mobile', 'membantu', 'memudahkan', 'melaporkan', 'keluhan', 'gangguan', 'terimakasih', 'aplikasinya', 'bagus']",netral
+741,"['aplikasi', 'membantu', 'pengecekan', 'tagihan', 'kurangnya', 'nih', 'ya', 'dech', 'dlm', 'jangka', 'perbarui', 'ulang']",netral
+744,"['unduh', 'aplikasi', 'nomor', 'hp', 'email', 'ubah', 'ya', 'aman', 'aplikasi', 'nya', 'cek', 'profil', 'berubah', 'pemberitahuan', 'email', 'jg', 'jd', 'hapus', 'aplikasinya', 'mengerikan', 'bener']",netral
+746,"['membantu', 'informasi', 'pemadaman', 'listrik', 'berkaitan', 'listrik', 'perubahan', 'daya', 'pasang', 'laporan', 'gangguan', 'pembelian', 'token', 'listrik', 'terima', 'kasih', 'pln', 'mobile']",netral
+748,"['terbantu', 'syekalee', 'aplikasi', 'pln', 'mobile', 'membantu', 'pengaduan', 'listrik', 'mudah', 'jaringan', 'internet', 'bagus', 'job']",netral
+749,"['aplikasi', 'membantu', 'informasi', 'pemadaman', 'tagihan', 'listrik', 'pasang', 'data', 'pengaduan']",netral
+750,"['terima', 'kasih', 'pln', 'meluncurkan', 'aplikasi', 'pln', 'mobile', 'kemudahan', 'keperluan', 'bidang', 'kelistrikan', 'semoga', 'kedepan', 'nya', 'tingkatkan', 'perform', 'nya', 'aplikasi', 'nya']",netral
+751,"['bintang', 'coba', 'aplikasi', 'terintegrasi', 'linkaja', 'ku', 'aktifkan', 'balasan', 'nomer', 'terdaftar', 'silakan', 'masukkan', 'nomor', 'tim', 'suport', 'tinggal', 'koneksi', 'linkaja', 'nomor', 'pakai', 'nomor', 'terkondisikan', 'pln', 'mobile', 'great', 'servis']",netral
+752,"['aplikasinya', 'positif', 'membantu', 'mempermudah', 'pelayanan', 'konsumen', 'usul', 'tanggal', 'pencatatan', 'meter', 'ditambah', 'seminggu', 'ahir', 'biar', 'kelewat', 'tglnya', 'makasih']",netral
+755,"['fitur', 'aplikasi', 'membantu', 'pelanggan', 'pengaduan', 'dilacak', 'riwayat', 'progressnya', 'semoga', 'berkembang']",netral
+758,"['pengembalian', 'dana', 'iconnect', 'respon', 'kesalahan', 'customer', 'area', 'coveragenya', 'diperbaiki', 'area', 'pusatnya', 'tertulis', 'tercover', 'rugi', 'pelanggan', 'pengembalian', 'dana', 'cair']",netral
+760,"['maaf', 'pln', 'unduh', 'pengajuan', 'bertambah', 'daya', 'aplikasi', 'meningkatkan', 'akun', 'meningkatkan', 'foto', 'ktp', 'foto', 'selfie', 'ktp', 'berhasil', 'akun', 'merubah', 'nomor', 'telepon', 'pembuatan', 'pemasangan', 'bantu', 'solusinya', 'akun', 'disalah', 'perhatiannya', 'ucapkan', 'terima', 'kasih']",netral
+761,"['permisi', 'kirim', 'pengaduan', 'iconnect', 'aplikasi', 'pln', 'mobile', 'ya', 'tulisannya', 'kesalahan', 'data', 'diperoleh', 'v', 'koneksi', 'lancar', 'aja', 'mohon', 'perbaiki', 'ya', 'terima', 'kasih', 'android', 'marsmallow']",netral
+763,"['instalasi', 'pemasangan', 'suka', 'error', 'muncul', 'tulisan', 'kwh', 'periksa', 'pengisian', 'pulsa', 'listrik', 'mohon', 'diperbaiki', 'sistem', 'instalasinya', 'terima', 'kasih']",netral
+764,"['aplikasi', 'membantu', 'memudahkan', 'pelanggan', 'pln', 'memiliki', 'kegiatan', 'mobil', 'aplikasi', 'terkait', 'produk', 'pln', 'mudah']",netral
+765,"['rakyat', 'indonesia', 'terima', 'kasih', 'banyaknya', 'pln', 'menjaga', 'pasokan', 'energi', 'listrik', 'negeri', 'aplikasi', 'pln', 'mobile', 'membantu', 'mempermudah', 'pelayanan', 'keperluan', 'listrik', 'pln', 'terbaik', 'thankss']",netral
+768,"['membatu', 'tp', 'coba', 'belanja', 'marketplace', 'pln', 'mobile', 'udah', 'barang', 'kirim', 'kirim', 'ga', 'fitur', 'pesan', 'nya', 'promosikan', 'terima', 'kasih']",netral
+770,"['saran', 'sistem', 'keamanannya', 'ditingkatkan', 'kemarin', 'email', 'pemberitahuan', 'nomor', 'telepon', 'terdaftar', 'pln', 'mobile', 'diganti', 'nomor', 'nomor', 'menggantinya']",netral
+775,"['ambil', 'foto', 'kendala', 'tulisan', 'periksa', 'home', 'mohon', 'diperbaiki', 'diulangi']",netral
+776,"['aplikasi', 'membantu', 'permasalahan', 'urusan', 'jaringan', 'kelistrikan', 'rumah', 'tinggal', 'sentuh', 'layar', 'handphone', 'petugas', 'repot', 'telpon', 'setara', 'aplikasi', 'ojek', 'online', 'masyarakat', 'terobosan', 'keren', 'pln']",netral
+778,"['min', 'daya', 'peringatan', 'selesaikan', 'permohonan', 'permohonan', 'aktivasi', 'akun', 'mohon', 'bantuannya', 'min']",netral
+780,"['petugas', 'pencatat', 'meter', 'ketuk', 'pagar', 'itupun', 'orang', 'dirumah', 'mendengar', 'ketukan', 'dipagar', 'dibuka', 'kali', 'mendengar', 'ketukan', 'catatan', 'meter', 'sesungguhnya', 'akibatnya', 'tagihan', 'dipukul', 'pemakaian', 'nya', 'pln', 'terima', 'kasih', 'pln', 'pln', 'mobile', 'swacam', 'kali', 'lupa', 'ambil', 'foto', 'swacam', 'seminggu', 'meng', 'active', 'alarm', 'laptop', 'tanggal', 'terima', 'kasih', 'pln', 'salam', 'cipie']",netral
+782,"['pengajuan', 'proses', 'penambahan', 'daya', 'mudah', 'pengisian', 'ulang', 'token', 'mudah', 'alternatif', 'proses', 'pembayaran', 'informasi', 'pemadaman', 'perbarui']",netral
+783,"['aplikasinya', 'bermanfaat', 'pengaduan', 'mati', 'listrik', 'rumah', 'kompleks', 'hidup', 'hubungi', 'call', 'centre', 'pengaduan', 'respon', 'memantau', 'proses', 'pengerjaan', 'aplikasi', 'dihubungi', 'ranting', 'terdekat', 'call', 'center', 'aplikasi', 'b', 'ermanfaat', 'terima', 'kasih']",netral
+786,"['pembelian', 'token', 'rb', 'tanggal', 'april', 'aplikasi', 'status', 'lunas', 'nomor', 'token', 'dikirim', 'terpaksa', 'kontak', 'nomor', 'tokennya', 'mohon', 'diperbaiki', 'sistem', 'uninstall', 'install', 'aplikasi', 'kali', 'nomor', 'tokennya', 'memakai', 'menu', 'bantuan', 'chat', 'nomor', 'token']",netral
+792,"['kondisi', 'terkini', 'perbarui', 'ya', 'pengalaman', 'customer', 'experience', 'nya', 'aplikasi', 'mudah']",netral
+793,"['fitur', 'diakses', 'grafik', 'pemakaian', 'memiliki', 'nomor', 'rekening', 'detail', 'informasi', 'menampilkan', 'nomor', 'rekening', 'titik', 'wilayah', 'titik', 'lokasi', 'sesuai', 'aktual', 'anyway', 'tambahan', 'selasa', 'mei', 'daftar', 'daya', 'pemberitahuan', 'terima', 'progres', 'menu', 'status', 'permohonan', 'menu', 'konfirm', 'bunyi', 'pemberitahuan', 'cenderung', 'menyesatkan']",netral
+796,"['ribet', 'migrasi', 'menu', 'tersedia', 'daya', 'migrasi', 'siapaa', 'daya', 'pembayaran', 'pakai', 'offline', 'orang', 'tua', 'e', 'wallet', 'internet', 'banking']",netral
+799,"['aplikasi', 'membantu', 'fiturnya', 'repot', 'gangguan', 'listrik', 'tinggal', 'lapor', 'aplikasi', 'responya', 'cepat']",netral
+800,"['aplikasi', 'membantu', 'banget', 'gangguan', 'mati', 'lampu', 'ditambah', 'market', 'place', 'nya', 'jozz', 'pln', 'mobile']",netral
+802,"['aplikasi', 'membantu', 'mudah', 'penggunaannya', 'aplikasi', 'bertransaksi', 'melaporkan', 'kejadian', 'gangguan', 'kantor', 'pln', 'monitor', 'aplikasi', 'pln', 'mobile']",netral
+804,"['pelaporan', 'gangguan', 'permohonan', 'daya', 'mudah', 'aplikasi', 'pln', 'mobile', 'informasi', 'gangguan', 'lokasi', 'ditampilkan', 'aplikasi', 'membantu']",netral
+805,"['langsung', 'kasih', 'bintang', 'adaya', 'aplikasi', 'apapun', 'langsung', 'mudah', 'menyesal', 'instal', 'aplikasi', 'membantu']",netral
+806,"['aplikasi', 'simple', 'update', 'alhamdulillah', 'versi', 'terbarunya', 'perbarui', 'senin', 'april', 'estimasi', 'tagihan', 'langsung', 'terbaca', 'swascan', 'meter', 'terima', 'kasih', 'tim', 'programer', 'pln', 'mobile']",netral
+807,"['aplikasi', 'membantu', 'memudahkan', 'laporan', 'pemberitahuan', 'gangguan', 'informasi', 'pemadaman', 'mantqp', 'terima', 'kasih', 'pln', 'mobile']",netral
+810,"['nya', 'aplikasi', 'dimudahkan', 'melaporkan', 'pln', 'gangguan', 'listrik', 'padam', 'daerah', 'rumah', 'aplikasi', 'pembelian', 'token', 'listrik', 'bayar', 'tagihan', 'pendaftaran', 'calon', 'pemasangan', 'meter', 'pemberitahuan', 'pemadaman', 'listrik', 'pln', 'berita', 'terbaru', 'bonus', 'pln']",netral
+811,"['aplikasi', 'pln', 'mobile', 'membantu', 'mempermudah', 'pelanggan', 'pln', 'kebutuhan', 'pelayanan', 'pengaduan', 'gangguan', 'beli', 'token', 'listrik', 'bayar', 'listrik', 'daya', 'pasang', 'foto', 'angka', 'stan', 'meter', 'mudah', 'butuh', 'tenaga', 'kantor', 'pln', 'pln', 'mobil', 'ok']",netral
+813,"['membantu', 'mudah', 'berkomunikasi', 'pln', 'ribet', 'terimakasih']",netral
+815,"['komplain', 'listrik', 'dirumah', 'penanganannya', 'disuruh', 'menunggu', 'seminggu', 'bln']",netral
+817,"['gangguan', 'pemadaman', 'nyala', 'aplikasinya', 'selesai', 'ditangani', 'jam', 'gangguan', 'selesai', 'ditangani', 'selisih', 'menit', 'penipuan', 'real', 'sesuai', 'payah', 'bilang', 'petugasnya']",netral
+818,"['bagus', 'berguna', 'daya', 'hp', 'harga', 'ribu', 'belanja', 'minimal', 'ribu', 'market', 'place', 'pln', 'mobile', 'promo', 'mei', 'cepat', 'mendekat', 'merapat', 'harga', 'dibantiang']",netral
+821,"['aplikasi', 'bagus', 'membantu', 'listrik', 'daerah', 'desa', 'sukajaya', 'sumedang', 'selatan', 'pemadaman', 'mengganggu', 'aktifitas', 'mohon', 'pln', 'memperbaikinya']",netral
+833,"['kali', 'unduh', 'aplikasinya', 'mah', 'pengaduan', 'fast', 'respon', 'ditelepon', 'petugas', 'plnnya', 'diperbarui', 'pengaduan', 'boro', 'fast', 'respon', 'status', 'pengaduannya', 'listrik', 'nyala', 'statusnya', 'rubah']",netral
+834,"['segi', 'tampilan', 'aplikasi', 'user', 'friendly', 'bilang', 'pengaduan', 'wilayah', 'sawangan', 'depok', 'via', 'whatsapp', 'membantu', 'customer', 'menyelesaikan']",netral
+836,"['nomor', 'virtual', 'accountnya', 'gonta', 'ganti', 'diteliti', 'kayaknya', 'aja', 'sok', 'disimpen', 'mbanking', 'beli', 'nyatet', 'nomor', 'kode', 'tolong', 'belajar', 'tokped', 'olshop', 'sat', 'set', 'sat', 'set', 'bayar', 'mbankingnya']",netral
+837,"['kalo', 'pemberitahuan', 'informasi', 'pemadaman', 'mohon', 'jam', 'diperjelas', 'penyebabnya', 'kasihan', 'kerja', 'memiliki', 'backup', 'daya']",netral
+838,"['pemberitahuan', 'voucher', 'cek', 'profil', 'voucher', 'muncul', 'tulisan', 'kesalahan', 'sistem', 'jaringan', 'semoga', 'aplikasi']",netral
+841,"['terima', 'kasih', 'pln', 'tanggal', 'catat', 'stand', 'meter', 'pln', 'cek', 'meteran', 'bulannya', 'tau', 'tagihan', 'melonjak', 'pemakaian', 'dikurangin', 'malam', 'aplikasi', 'membantu', 'trims']",netral
+843,"['terima', 'kasih', 'tim', 'pln', 'respon', 'penanganan', 'pengaduan', 'via', 'pln', 'mobile', 'meningkat', 'bintang', 'langsung', 'kasih', 'bintang', 'pertahankan', 'tingkatkan']",netral
+844,"['mengajukan', 'pengaduan', 'tp', 'unggah', 'foto', 'bug', 'mental', 'diulangi', 'lelah', 'aplikasi', 'mempermudah', 'kerja', 'pln', 'aja']",netral
+846,"['ubah', 'bintang', 'ya', 'habis', 'telepon', 'cs', 'pln', 'memperbaiki', 'pelayanan', 'pengisian', 'token', 'terpending', 'ubah', 'transaksi', 'langsung', 'berhasil']",netral
+850,"['halo', 'pln', 'informasi', 'rencana', 'daya', 'promo', 'deh', 'beli', 'produk', 'marketpalace', 'voucernya', 'deh', 'salin', 'kode', 'voucernya', 'pln', 'mobile', 'keterangan', 'gangguan', 'jaringan', 'system', 'coba', 'tetep', 'mohon', 'solusinya', 'pln', 'terima', 'kasih']",netral
+851,"['aplikasi', 'mobile', 'memudahkan', 'isi', 'token', 'gangguan', 'kantor', 'pln', 'melaporkan', 'gangguan']",netral
+855,"['aplikasinya', 'membantu', 'perubahan', 'daya', 'promo', 'mohon', 'tingkatkan', 'toko', 'marketplacenya', 'ya']",netral
+860,"['aplikasi', 'nya', 'sih', 'bagus', 'mempermudah', 'banget', 'orang', 'lapangan', 'nya', 'bagus', 'pasang', 'pakai', 'mencoba', 'kwh', 'nya', 'alasan', 'kehabisan', 'dipasang', 'parah']",netral
+863,"['aplikasi', 'bagus', 'lancar', 'tpi', 'coba', 'beta', 'pembelian', 'token', 'pembayaran', 'tagihan', 'listrik', 'bukti', 'pembayaran', 'menunggu', 'kadaluarsa', 'bayar', 'mobile', 'banking', 'online', 'berhasil', 'menu', 'bantuan', 'bukti', 'pembayarannya', 'yg', 'antrinya', 'lumayan', 'semoga', 'perbaiki', 'launching']",netral
+864,"['pikir', 'memudahkan', 'aplikasinya', 'loading', 'mengajukan', 'keluhan', 'token', 'gagal', 'aplikasinya', 'loading', 'mohon', 'perbaiki']",netral
+865,"['isi', 'token', 'pln', 'mobile', 'via', 'va', 'baca', 'transfer', 'berhasil', 'aplikasi', 'menunggu', 'pembayaran', 'muncul', 'nomor', 'token', 'nya', 'jujur', 'kapok', 'isi', 'token', 'app']",netral
+869,"['aplikasi', 'perbarui', 'pembayaran', 'via', 'virtual', 'akun', 'terverifikasi', 'bayar', 'menunggu', 'menit', 'token', 'masuk', 'listrik', 'rumah', 'terlanjur', 'mati', 'cs', 'chat', 'respon']",netral
+870,"['pembelian', 'via', 'virtual', 'account', 'prosesnya', 'kadaluarsa', 'saldo', 'rekening', 'berkurang', 'tp', 'stroom', 'token', 'x', 'lakukan', 'transaksi', 'berhasil']",netral
+876,"['aplikasi', 'ditingkatkan', 'dikolom', 'komentar', 'live', 'chat', 'sulit', 'mengetik', 'cache', 'dibersihkan', 'membeli', 'token', 'listrik', 'via', 'gopay', 'diproses', 'pln', 'mobile', 'diakun', 'gopay', 'sukses', 'pembayaran']",netral
+877,"['mengaku', 'apl', 'kasinya', 'bagus', 'tolong', 'diperbaiki', 'notifikas', 'pemadaman', 'listrik', 'mucul', 'pemadaman', 'listrik', 'mohon', 'diperbaiki']",netral
+879,"['pembayaran', 'berhasil', 'nomor', 'token', 'transaksi', 'proses']",netral
+880,"['terima', 'kasih', 'aplikasi', 'membantu', 'saran', 'menu', 'bantuan', 'chat', 'ketik', 'balasan', 'copy', 'notepad', 'tempel', 'kirim', 'mohon', 'perbaiki']",netral
+882,"['min', 'tolong', 'perbaiki', 'transaksi', 'nya', 'membayar', 'tagihan', 'listrik', 'aplikasi', 'pln', 'mobile', 'bayar', 'aplikasi', 'keterangan', 'menunggu', 'pembayaran', 'bayar', 'cek', 'aplikasi', 'dana', 'tertulis', 'tagihan', 'bayar', 'mohon', 'perbaiki', 'kasih', 'bintang']",netral
+884,"['pembelian', 'tokennya', 'banget', 'ditransfer', 'nomor', 'token', 'listriknya', 'muncul', 'harap', 'dibenahi', 'aplikasi', 'pln', 'kalah', 'aplikasi', 'menyediakan', 'token', 'listrik']",netral
+886,"['koneksi', 'marketplace', 'lambat', 'interface', 'nya', 'interaktif', 'dicatat', 'ram', 'hp', 'gb', 'streaming', 'youtube', 'lancar', 'main', 'game', 'moba', 'aman', 'buka', 'aplikasi', 'pln', 'sanggup']",netral
+887,"['transaksi', 'bingung', 'keunggulanya', 'token', 'kluar', 'transaksi', 'virtual', 'account', 'beres', 'harga', 'mahal', 'beli', 'langsung', 'bank']",netral
+893,"['daftar', 'sambung', 'daerah', 'rumah', 'kost', 'tangerang', 'selatan', 'maksudnya', 'data', 'diisi', 'iml', 'maksudnya', 'iya', 'dikosongkan', 'isi', 'nomor', 'instalasi', 'lembaga', 'inspeksi', 'instalasi', 'mohon', 'bantuan', 'bayar', 'instalasi', 'dipasang', 'terimakasih']",netral
+894,"['alhamdulillah', 'untung', 'aplikasi', 'udah', 'bingung', 'sedih', 'isi', 'token', 'k', 'teratasi', 'berkat', 'aplikasi', 'respon', 'cepat', 'makasih', 'pln', 'mobile']",netral
+895,"['proses', 'pendaftaran', 'pasang', 'daya', 'memakai', 'aplikasi', 'pln', 'mobile', 'daftar', 'va', 'bank', 'bri', 'pembayaran', 'bilang', 'nomor', 'va', 'terdaftar', 'pembayaran', 'terima', 'bri', 'va', 'ovo', 'gopay', 'bayar', 'pakai', 'bri', 'va']",netral
+897,"['update', 'laporan', 'titik', 'lokasi', 'tolong', 'dibantu', 'perbaikan', 'aplikasinya']",netral
+901,"['aplikasinya', 'bagus', 'friendly', 'pelayanan', 'pln', 'semoga', 'masukan', 'perbaikan', 'jangka']",netral
+906,"['aplikasi', 'fitur', 'keaman', 'an', 'privasi', 'pengguna', 'aplikasi', 'nama', 'alamat', 'orang', 'kode', 'otp', 'email', 'nomor', 'hp', 'pelayanan', 'pengaduan', 'respon', 'status', 'nya', 'mncari', 'petugas']",netral
+907,"['aduan', 'gangguan', 'respon', 'antrian', 'perbaikan', 'petugas', 'pemberitahuan', 'pencarian', 'petugas', 'perubahan', 'status', 'ragu', 'aduan', 'respon']",netral
+908,"['ganti', 'nomor', 'telepon', 'sy', 'email', 'masuk', 'berhasil', 'mengganti', 'nomor', 'tlpon', 'akun', 'bug', 'aplikasi', 'mu', 'pln']",netral
+910,"['status', 'gangguan', 'aplikasi', 'lapangan', 'berbeda', 'aplikasi', 'lapor', 'menyala', 'teknisi', 'apanya', 'menyala', 'sistem', 'klik', 'menyala', 'perubahan', 'listrik', 'mati']",netral
+911,"['admin', 'pln', 'mobile', 'aplikasi', 'nomet', 'pengaduan', 'diketik', 'langaung', 'alamat', 'nomet', 'orang', 'pengaduan', 'terima', 'kasih']",netral
+919,"['mudah', 'bagus', 'up', 'token', 'worry', 'kehabisan', 'malam', 'tinggal', 'sat', 'set', 'sat', 'set', 'aplikasi', 'pembayaran', 'nya', 'mudah', 'semoga', 'aplikasi', 'nya', 'nge', 'bug', 'tingkatkan', 'ya', 'kualitas', 'biar', 'memakai', 'aplikasi']",netral
+920,"['pengaduan', 'pakai', 'aplikasi', 'heran', 'kasih', 'rating', 'ya', 'kasih', 'rating', 'kayaknya', 'jujur', 'mengecewakan', 'tolong', 'iya', 'respon', 'konsumen', 'berhak', 'kekecewaan', 'pelayanan', 'pemadaman', 'listik', 'informasi', 'nya']",netral
+922,"['terima', 'kasih', 'bantuannya', 'aplikasi', 'mudah', 'upgrade', 'memahami', 'meningkatkan', 'nya', 'langkah', 'langkahnya', 'lakukan', 'profil', 'bermasalah', 'tolong', 'kasih', 'admin', 'terima', 'kasih']",netral
+923,"['laporan', 'kwh', 'bermasalah', 'ganti', 'diganti', 'kwh', 'token', 'gadiisin', 'surat', 'dittdn', 'pagi', 'ganti', 'konfirmasinya', 'aneh', 'teknisinya']",netral
+925,"['ganti', 'profil', 'nomor', 'telepon', 'pemberitahuan', 'email', 'nomor', 'telepon', 'berhasil', 'dirubah', 'aplikasi', 'tolong', 'bantu']",netral
+930,"['aplikasi', 'bagus', 'tolong', 'server', 'pln', 'icon', 'perbarui', 'data', 'mbps', 'nya', 'down', 'jaringan', 'nya', 'kalo', 'mbps', 'nya', 'turunin', 'kayak', 'aplikasi', 'okee']",netral
+932,"['tanggal', 'april', 'beli', 'barang', 'marketplace', 'daya', 'kabar', 'bayar', 'telepon', 'suruh', 'menunggu', 'aplikasi', 'mobile', 'dirugikan', 'uang']",netral
+939,"['aplikasi', 'tanggapan', 'komplain', 'cepat', 'tanggap', 'tolong', 'benerin', 'langsung', 'tkp', 'menunggu', 'kasihan', 'bermasalah', 'kwh', 'token', 'sulit']",netral
+949,"['aplikasinya', 'ok', 'aplikasinya', 'ramai', 'berat', 'semoga', 'perbaikan', 'menu', 'filtering', 'terima', 'kasih', 'pln']",netral
+952,"['aplikasi', 'membantu', 'banget', 'memonitor', 'hasil', 'pengaduan', 'aplikasi', 'pemberitahuan', 'maintenance', 'menyebabkan', 'pemadaman', 'area', 'rumah', 'cek', 'tagihan', 'listrik', 'aplikasi', 'tetaplah', 'pertahankan', 'kinerja']",netral
+955,"['mencoba', 'beli', 'token', 'langsung', 'bingung', 'hasilnya', 'pembayaran', 'berhasil', 'aplikasinya', 'pusing', 'tolong', 'diperbaiki']",netral
+957,"['daya', 'vocher', 'lebar', 'berhari', 'debat', 'kantor', 'pln', 'alasan', 'intinya', 'melayani', 'daya', 'vocher', 'berhasil', 'pasang', 'daya', 'intinya', 'pln', 'melayani', 'laporkan', 'nomor', 'terima', 'kasih', 'pelayanan', 'memuaskan']",netral
+965,"['respon', 'pembelian', 'token', 'aplikasi', 'kode', 'stroomnya', 'kunjung', 'muncul', 'pengaduan', 'responsenya', 'gps', 'sinyal', 'aplikasi', 'terbaru', 'kondisi', 'salahkan', 'jaringan', 'akui', 'kecewa']",netral
+974,"['menu', 'gangguan', 'kondisi', 'dilapangan', 'system', 'sesuai', 'system', 'perbarui', 'system', 'nyala', 'actual', 'dilapangan', 'seharian', 'ditunggu', 'malam', 'gelapan', 'bayangkan', 'kondisinya', 'dirumah', 'bayi', 'hamil', 'x', 'lapor', 'mengecewakan']",netral
+982,"['membantu', 'lapor', 'gangguan', 'proses', 'pasang', 'permohonan', 'daya', 'mudah', 'pembayaran', 'listrik', 'pembelian', 'token', 'semoga', 'tingkatkan', 'pelayanan']",netral
+984,"['aplikasi', 'pln', 'mobile', 'membantu', 'kemudahan', 'transaksi', 'beli', 'token', 'laporan', 'listrik', 'padam', 'daya', 'laporan', 'penanganan', 'mudah', 'ditangani', 'cepat', 'simpel', 'hemat', 'diakses', 'dimana', 'tinggal', 'klik', 'selesai', 'sulit', 'kantor', 'pln', 'terima', 'kasih', 'pln', 'mobile']",netral
+987,"['aplikasi', 'membantu', 'kemudahan', 'dalamnya', 'lapor', 'penanganan', 'gangguan', 'bayar', 'beli', 'token', 'kemudahan', 'pasang', 'daya', 'semoga', 'berkembang', 'tingkatkan', 'pelayanan']",netral
+988,"['aplikasinya', 'bagus', 'dipakai', 'laporan', 'meteran', 'bulanan', 'minusnya', 'kepastian', 'undian', 'berhadiah', 'dimana', 'kipon', 'undiannya', 'hadiah', 'kali', 'bayar', 'tagihan', 'aplikasi', 'iya', 'dipakai', 'laporan', 'meter']",netral
+992,"['bagus', 'aplikasi', 'pln', 'mobile', 'mempermudah', 'pengguna', 'masukan', 'tolong', 'perbarui', 'opsi', 'fitur', 'cetak', 'struk', 'transaksi', 'langsung', 'unduh', 'pdf', 'masukkan', 'pilihan', 'cetak', 'ukuran', 'print', 'mm', 'detek', 'otomatis', 'printer', 'bluetooth', 'mini', 'mempermudah', 'pengguna', 'aplikasi', 'jualan', 'ppob', 'trim', 's']",netral
+995,"['fitur', 'data', 'pembayaran', 'dibanding', 'versi', 'dimunculkan', 'fitur', 'informasi', 'pembayaran', 'data', 'id', 'pelanggan', 'hilang', 'update']",netral
+998,"['menu', 'penyambungan', 'menentukan', 'titik', 'lokasi', 'keterangan', 'nya', 'jalan', 'nama', 'pendaftaran', 'penyambungan', 'listrik', 'rumah', 'tangga', 'menentukan', 'titik', 'lokasi', 'gps', 'nya', 'maaf', 'bintang', 'ya', 'bintangnya']",netral
